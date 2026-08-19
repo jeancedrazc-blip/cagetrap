@@ -1,0 +1,10 @@
+{
+  "project": "Cage Trap",
+  "version": "1.1.0",
+  "minecraft": "26.1.2",
+  "loader": "NeoForge",
+  "output": "CageTrap-1.1.0.jar",
+  "sha256": "92c22f13edfccaadb0fd284a676560fb38cd3643282383b895c92a6238b32533",
+  "encoding": "base64-chunks",
+  "parts_glob": "parts/CageTrap-1.1.0.jar.b64.part*"
+}
